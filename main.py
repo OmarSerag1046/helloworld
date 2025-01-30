@@ -1,1 +1,3 @@
-print("Hello, World!"*1000)
+i = 0
+while i < 1 :
+    print("hello")
